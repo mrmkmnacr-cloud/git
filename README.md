@@ -8,5 +8,3 @@ nvdnnvn
 git 
 ###
 jndnlksvlgit 
-
-kdkwokok
